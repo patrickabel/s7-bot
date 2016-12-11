@@ -1,5 +1,5 @@
 {
-  "name": "botworks",
+  "name": "s7-bot",
   "version": "1.0.0",
   "description": "Build a bot in Node.js on Microsoft Bot Framework",
   "main": "index.html",
@@ -18,7 +18,13 @@
   },
   "homepage": "https://github.com/SarahSays/BotWorks#readme",
   "dependencies": {
-    "botbuilder": "^1.0.0",
-    "restify": "^4.1.0"
-  }
+    "botbuilder": "^1.0.1",
+    "restify": "^4.3.0"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "teams",
+    "azure"
+  ]
 }
