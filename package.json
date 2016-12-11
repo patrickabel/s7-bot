@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SarahSays/BotWorks.git"
+    "url": "git+https://github.com/patrickabel/s7-bot.git"
   },
   "author": "Sarah Sexton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SarahSays/BotWorks/issues"
+    "url": "https://github.com/patrickabel/s7-bot/issues"
   },
-  "homepage": "https://github.com/SarahSays/BotWorks#readme",
+  "homepage": "https://github.com/patrickabel/s7-bot#readme",
   "dependencies": {
     "botbuilder": "^1.0.1",
     "restify": "^4.3.0"
